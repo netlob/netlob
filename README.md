@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netlob" alt="netlob" /> </p>
 
-- 🔭 I’m currently working on **various projects :)**
+- 🔭 Currently working on **[Spotistats](https://netlob.dev/spotistat)**
 
-- 👨‍💻 All of my projects are available at [https://netlob.dev](https://netlob.dev)
+- 👨‍💻 All of my projects are available at **[netlob.dev](https://netlob.dev/)**
 
 - 📫 Feel free to reach to me @ **sjoerd@netlob.dev**
 
 - <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Netlob#1300</b></p>
 
-<br>
 <h3 align="left">Proffesional expierence</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" />
