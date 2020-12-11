@@ -11,7 +11,7 @@
 
 - <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Netlob#1300</b></p>
 
-<h3 align="left">Proffesional expierence</h3>
+<h3 align="left">Profesional experience</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
@@ -25,7 +25,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </p>
-<h3 align="left">Hobby expierence</h3>
+<h3 align="left">Hobby experience</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" />
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> 
