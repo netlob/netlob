@@ -11,7 +11,7 @@
 
 - <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Netlob#1300</b></p>
 
-<h3 align="left">Profesional experience</h3>
+<h3 align="left">Professional experience</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
