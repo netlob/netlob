@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netlob" alt="netlob" /> </p>
 
-- 🔭 Currently working on **[Spotistats](https://netlob.dev/spotistat)**
+- 🔭 Currently working on **[Spotistats](https://spotistat.app)**
 
-- 👨‍💻 All of my projects are available at **[netlob.dev](https://netlob.dev/)**
+- 👨‍💻 All of my projects are available at **[sjoerd.dev](https://sjoerd.dev/)**
 
-- 📫 Feel free to reach to me @ **sjoerd@netlob.dev**
+- 📫 Feel free to reach to me @ **sjoerd@sjoerd.dev**
 
 - <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Netlob#1300</b></p>
 
