@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netlob" alt="netlob" /> </p>
 
-- 🔭 Currently working on **[Spotistats](https://spotistat.app)**
+- 🔭 Currently working on **[Spotistats](https://spotistats.app)**
 
 - 👨‍💻 All of my projects are available at **[sjoerd.dev](https://sjoerd.dev/)**
 
