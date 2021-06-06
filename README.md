@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach to me @ **sjoerd@sjoerd.dev**
 
-- <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Netlob#1300</b></p>
+- <p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="netlob" height="20" width="20" /> Or add me on Discord: <b>Sjoerd#1300</b></p>
 
 <p align="center"> 
 <a href="https://codepen.io/netlob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="netlob" height="30" width="30" /></a>
