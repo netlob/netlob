@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Sjoerd</h1>
-<h4 align="left">A software engineering student from the Netherlands🇳🇱</h4>
+<h1 align="left">Hi 👋</h1>
+<h4 align="left">I'm Sjoerd, a software engineering student from the Netherlands🇳🇱</h4>
 
-Currently working on **[Spotistats for Spotify](https://spotistats.app)** (1,000,000+ users)
+Currently working on **[Spotistats for Spotify](https://spotistats.app)** (1,500,000+ users)
 
 
 Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
