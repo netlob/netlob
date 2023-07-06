@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Sjoerd 🇳🇱, a college dropout escaping the matrix yk</h4>
 
-Currently working on **[Swipefy](https://swipefy.app)** (50K+ pre-orders) and **[stats.fm](https://stats.fm)** (10.5M+ users)
+Currently working on **[Swipefy](https://swipefy.app)** (150K+ pre-orders) and **[stats.fm](https://stats.fm)** (11M+ users)
 
 
 Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
