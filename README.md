@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋</h1>
-<h4 align="left">I'm Sjoerd 🇳🇱, a college dropout escaping the matrix yk</h4>
+<h4 align="left">I'm Sjoerd 🇳🇱</h4>
 
 Currently working on **[Swipefy](https://swipefy.app)** (300K+ users) and **[stats.fm](https://stats.fm)** (12M+ users)
 
