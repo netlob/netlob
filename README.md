@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Sjoerd 🇳🇱</h4>
 
-Currently working on **[Swipefy](https://swipefy.app)** (800K+ users) and **[stats.fm](https://stats.fm)** (17M+ users)
+Currently working on **[Swipefy](https://swipefy.app)** (800K+ users) and **[stats.fm](https://stats.fm)** (19M+ users)
 
 
 Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
