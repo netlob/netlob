@@ -5,7 +5,7 @@ Currently working on **[Swipefy](https://swipefy.app)** (1M+ users) and **[stats
 
 
 Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
-Company **[gemairo.com](https://gemairo.dev/)**<br>
+Company **[gemairo.com](https://gemairo.com/)**<br>
 Email **[hi@sjoerd.dev](mailto:hi@sjoerd.dev)**<br>
 Linkedin **[linkedin.com/in/sjoerdbolten](https://linkedin.com/in/sjoerdbolten)**<br>
 Discord **@sjoerd**<br>
