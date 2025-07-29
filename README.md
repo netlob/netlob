@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Sjoerd 🇳🇱</h4>
 
-Currently working on **[Swipefy](https://swipefy.app)** (1M+ users) and **[stats.fm](https://stats.fm)** (20M+ users)
+Founder of **[stats.fm](https://stats.fm)** (25M+ users) & **[Swipefy](https://swipefy.app)** (1.5M+ users)
 
 
-Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
 Company **[gemairo.com](https://gemairo.com/)**<br>
+Portfolio **[sjoerd.dev](https://sjoerd.dev/)**<br>
 Email **[hi@sjoerd.dev](mailto:hi@sjoerd.dev)**<br>
 Linkedin **[linkedin.com/in/sjoerdbolten](https://linkedin.com/in/sjoerdbolten)**<br>
 Discord **@sjoerd**<br>
