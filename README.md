@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Sjoerd 🇳🇱</h4>
 
-Founder of **[stats.fm](https://stats.fm)** (25M+ users) & **[Swipefy](https://swipefy.app)** (1.5M+ users)
+Founder of **[stats.fm](https://stats.fm)** (30M+ users) & **[Swipefy](https://swipefy.app)** (2.5M+ users)
 
 
 Company **[gemairo.com](https://gemairo.com/)**<br>
